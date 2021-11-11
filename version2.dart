@@ -15,7 +15,7 @@ void main() {
     print ("The Student Pass");
   }
   else {
-    print ("The Student failed");
+    print ("The Student Failed");
   }
 }
 
